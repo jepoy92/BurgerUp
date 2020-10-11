@@ -1,3 +1,4 @@
+  
 const mysql = require('mysql')
 const connectionConfig = {
     host: "localhost",
