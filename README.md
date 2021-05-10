@@ -1,6 +1,6 @@
 
 # BurgerUp
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## Description 
 
 A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!) that uses Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
@@ -30,7 +30,7 @@ Log the burgers you've encountered or make up your own to keep track of what you
 
   For more information on the license used, please click on the link below:
 
-- [License] (https://opensource.org/licenses/GPL-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
 
